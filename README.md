@@ -6,7 +6,7 @@ Behavioral data in this project was collected using **Bonsai**, an open-source v
 
 The tracking system records animal position frame-by-frame across three standard neuroscience behavioral paradigms, enabling automated extraction of locomotor, exploratory, and anxiety-related behaviors.
 
-🔥 The raw coordinate data are processed through custom pipelines to generate interpretable behavioral metrics for downstream analysis.
+The raw coordinate data are processed through custom pipelines to generate interpretable behavioral metrics for downstream analysis.
 
 ---
 
